@@ -1,4 +1,4 @@
-import { generateWithAI } from './groq'
+import { generateWithAI } from './gemini'
 import type { FormData, ScenarioData, Character, TimelineEvent, Evidence } from '@/types/scenario'
 
 // 日本語ラベルのマッピング
